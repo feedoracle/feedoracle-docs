@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 import requests
-API="https://api.feedoracle.de/api/v3"
+API="https://feedoracle.io/api/v3"
 d=requests.get(f"{API}/rlusd/latest").json()["snapshot"]
 h=d["content_hash"]
 print(f"RLUSD {d['report_month']}: {d['circulating_supply']:,}")
