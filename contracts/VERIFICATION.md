@@ -1,16 +1,17 @@
 # Contract Verification
 
-## Attestation Contract
-Address: `0x8243AAC99d9004f6a972907bCF25148aF59Bf7C5`
+## DAPAnchor (LIVE)
+Address: `0xE1eAC4435716B1B8F358D280ab87FB04FEa7b93C`
 Source: `source/DAPAnchor.sol`
+Status: **Pending Verification**
 
 ## Compiler Settings
 - Solidity: 0.8.19
 - Optimizer: Yes, 200 runs
-- EVM: Paris
 
-## Steps
-1. Go to Polygonscan > Verify
-2. Single file, v0.8.19
-3. Optimization: Yes, 200
-4. Paste DAPAnchor.sol source
+## Verify on Polygonscan
+1. Go to contract page
+2. Click "Verify and Publish"
+3. Single file, v0.8.19
+4. Optimization: Yes, 200 runs
+5. Paste DAPAnchor.sol source

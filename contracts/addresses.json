@@ -2,8 +2,8 @@
   "network": "Polygon Mainnet",
   "chainId": 137,
   "contracts": {
+    "DAPAnchor": "0xE1eAC4435716B1B8F358D280ab87FB04FEa7b93C",
     "AccessPass": "0xA071Bc94774B03b26F72084ec5b63E804E7C2DC4",
-    "Attestation": "0x8243AAC99d9004f6a972907bCF25148aF59Bf7C5",
     "Compliance": "0x1C1850F43ae47A31cB084aC34945893F8E257f85",
     "Registry": "0xa8F788e0E9e28F4A6aC73Be369CFA396a39a6ac4"
   },
