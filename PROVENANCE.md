@@ -30,7 +30,7 @@ AccessPass:  0xA071Bc94774B03b26F72084ec5b63E804E7C2DC4
 
 ### Release Bundle Hash
 ```
-SHA-256: 231d185be869c8934a4109dc2636e5fcaa2979c3a56658c51205914a1b643452
+SHA-256: 201b37305ae82da4eeea978c48dae1fb41d03a097a617c9a66562c7cba0a0446 (Genesis Hash from TX)
 Files included:
 - specs/EVIDENCE_ENVELOPE_v1.md
 - openapi.yaml
